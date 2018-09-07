@@ -1,0 +1,5 @@
+[user]
+	name = Petter Kaspersen
+	email = petter@petterk.com
+[alias]
+	lg = log --graph --
